@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Tanvir Hasan
 #### I am a Software Engineer
-![I am a Software Engineer](https://www.pngitem.com/pimgs/m/501-5017607_programmer-png-clipart-computer-programming-software-programmer-cartoon.png)
+![I am a Software Engineer]
 
 Myself Tanvir Hasan. I am a Software Engineer. I am working in Dotnet core and ReactJS. I am familiar with Java, Python, C++,C programming languages.
 
